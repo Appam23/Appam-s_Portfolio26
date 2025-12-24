@@ -85,7 +85,7 @@ nav .container {
     padding: 1rem 2rem;
     background: white;
     color: #667eea;
-    text-decoration: none;
+    text-decoration: none;    git pull origin main --allow-unrelated-histories --no-rebase
     border-radius: 5px;
     font-weight: bold;
     transition: transform 0.3s;
